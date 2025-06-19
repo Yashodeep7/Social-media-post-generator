@@ -41,3 +41,11 @@ This project aims to build a
 ```
 
 ## Flow
+
+![Flowchart](Flow.svg)
+
+---
+
+## Setup Instructions
+
+Clone the repository and put your groq api key in the .env file preferably llama model and run streamlit run main.py in terminal.
