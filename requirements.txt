@@ -1,0 +1,9 @@
+streamlit
+sentence_transformers
+langchain
+langchain_core
+pandas
+json
+dotenv
+os
+langchain_groq
